@@ -28,7 +28,7 @@
             <!-- <p class="user-details"><b>Angelina</b><br> Ambrose Ali University Student</p> -->
             </div>
             <div class="col-md-12">
-              <img src="images/ctybackground.png" class="img img-thumbnail">
+              <img src="images/ctybackground.png" class="img img-thumbnail wow animate__animated animate__zoomIn delay-1">
             </div>
           </div>
       </div>
@@ -66,7 +66,7 @@
                 <li>Get the government to enact laws against child hawking and to maintain these laws</li>
               </ul>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 wow animate__animated animate__zoomIn delay-1">
               <img src="images/p5.jpg" class="feature img-fluid" style="border-radius: 50px;">
             </div>
           </div>
@@ -79,18 +79,15 @@
           <h1 class="title">DONATIONS</h1>
           <div class="row text-center">
             <!-- First Service -->
-            <div class="col-md-4 col-xs-4 services">
-              <img src="images/p1.jpg" class="service-img">
+              <div class="col-md-4 col-xs-4 services wow animate__animated animate__zoomIn delay-1.5">
+                <img src="images/p1.jpg" class="service-img">
+                </div>
+                <div class="col-md-4 col-xs-4 services wow animate__animated animate__zoomIn delay-1">
+                <img src="images/p1.jpg" class="service-img">
+                </div>
+                <div class="col-md-4 col-xs-4 services wow animate__animated animate__zoomIn delay-2">
+                <img src="images/p1.jpg" class="service-img">
               </div>
-
-              <div class="col-md-4 col-xs-4 services">
-              <img src="images/p1.jpg" class="service-img">
-              </div>
-              <div class="col-md-4 col-xs-4 services">
-              <img src="images/p1.jpg" class="service-img">
-
-            </div>
-
             <div class="col-md-12 col-xs-12 services">
               <h4>
                 <!-- Graphic Design -->
@@ -152,7 +149,7 @@
           <h1 class="who text-center">JOIN OUR TEAM OF VOLUNTEERS</h1>
           <div class="row text-center">
             <!-- First Service -->
-            <div class="col-md-4 services">
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
               <img src="images/user1.jpg" class="service-img">
               <h4>
                 MARK ANDREW
@@ -164,7 +161,7 @@
             </div>
 
             <!-- Second Service -->
-            <div class="col-md-4 services">
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-2">
               <img src="images/user2.jpg" class="service-img">
               <h4>
                 GRACE WEALTH
@@ -175,7 +172,7 @@
             </div>
 
             <!-- Third Service -->
-            <div class="col-md-4 services">
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-3">
               <img src="images/user1.jpg" class="service-img">
               <h4>
                 JOHN AHMED

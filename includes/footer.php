@@ -47,7 +47,10 @@
     </script>
 
     <!-- Animate -->
-    <script src="../js/wow.js"></script>
+    <script src="js/wow.js"></script>
+    <script>
+      new WOW().init();
+    </script>
 
 
 </body>

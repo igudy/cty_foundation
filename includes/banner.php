@@ -15,7 +15,9 @@
                     <p style="text-transform: uppercase;">
 
                     </p>
-                    <a href="#"><img src="./images/play.png" class="play-btn">Watch Introduction</a>
+                    <div class=" wow animate__animated animate__zoomIn delay-1">
+                        <a href="awareness.php"><img src="./images/play.png" class="play-btn">Watch Introduction</a>
+                    </div>
                 </div>
 
                 <div class="col-md-4 text-center">
