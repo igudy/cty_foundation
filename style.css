@@ -52,9 +52,10 @@ a:hover{
 
 /* Banner Section */
 #banner{
-    background-image: url("./images/p2.jpg");
+    /* background-image: url("./images/p2.jpg"); */
+    background-image: linear-gradient(to right, #19191a, #25252b);
     color: #fff;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
 }
 
 .promo-title{

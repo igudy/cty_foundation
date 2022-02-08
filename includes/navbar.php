@@ -30,6 +30,10 @@
                   </li>
 
                   <li class="nav-item">
+                    <a class="nav-link" href="awareness.php">AWARENESS</span></a>
+                  </li>
+
+                  <li class="nav-item">
                     <a class="nav-link" href="#social-media">CONTACT US</a>
                   </li>
               </ul>

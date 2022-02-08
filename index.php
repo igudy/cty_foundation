@@ -7,8 +7,7 @@
 <!-- Include Banner -->
 <?php include("includes/banner.php"); ?>
 
-
-<!-- Background -->
+ <!-- Background -->
 <section id="background">
       <div class="container">
         <div class="row">
@@ -27,9 +26,11 @@
             <img class='img' src="images/user1.jpg">
             <img class='img img-round' src="images/user1.jpg"> -->
             <!-- <p class="user-details"><b>Angelina</b><br> Ambrose Ali University Student</p> -->
+            </div>
+            <div class="col-md-12">
+              <img src="images/ctybackground.png" class="img img-thumbnail">
+            </div>
           </div>
-
-        </div>
       </div>
     </section>
 
