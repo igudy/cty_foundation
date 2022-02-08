@@ -8,7 +8,8 @@
     <title>Free Graphic Design Masterclass</title>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/animate.css">
 
     <!-- Bootstrap min js and css, jquery, font-awesome  -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">

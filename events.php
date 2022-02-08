@@ -2,7 +2,7 @@
 <?php include("includes/head.php"); ?>
 
 <!-- Include Navbar -->
-<?php include("includes/navbar.php"); ?>
+<?php include("includes/navbar2.php"); ?>
 
 <!-- Include Banner -->
 <?php include("includes/banner.php"); ?>

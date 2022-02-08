@@ -41,10 +41,13 @@
 
 
     <!-- Smooth Scroll -->
-    <script src="smooth-scroll.js"></script>
+    <script src="../js/smooth-scroll.js"></script>
     <script>
       var scroll = new SmoothScroll('a[href*="#"]');
     </script>
+
+    <!-- Animate -->
+    <script src="../js/wow.js"></script>
 
 
 </body>
