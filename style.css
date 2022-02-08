@@ -21,7 +21,7 @@ a:hover{
 }
 
 .navbar{
-    background-image: linear-gradient(to right, #27960c, #058316)!important;
+    background-image: linear-gradient(to right, #19191a, #25252b)!important;
     padding: 0!important;
 }
 
@@ -52,9 +52,9 @@ a:hover{
 
 /* Banner Section */
 #banner{
-    background-image: linear-gradient(to right, #27960c, #058316);
+    background-image: url("./images/p2.jpg");
     color: #fff;
-    /* height: 560px; */
+    background-repeat: no-repeat;
 }
 
 .promo-title{
@@ -84,8 +84,9 @@ a:hover{
 }
 
 .service-img{
-    width: 100px;
-    margin-top: 20px;
+    width: 200px;
+    margin-top: 10px;
+    border-radius: 50px;
 }
 
 .service{
@@ -100,7 +101,7 @@ a:hover{
 
 .title::before{
     content: '';
-    background: #058316;
+    background: #25252b;
     height: 5px;
     width: 120px;
     margin-left: auto;
@@ -111,7 +112,7 @@ a:hover{
 
 .title::after{
     content: '';
-    background: #27960c;
+    background: #3c3c49;
     height: 10px;
     width: 60px;
     margin-left: auto;
@@ -123,7 +124,7 @@ a:hover{
 
 .who::after{
     content: '';
-    background: #27960c;
+    background: #25252b;
     height: 3px;
     width: 200px;
     margin-left: auto;
@@ -134,18 +135,21 @@ a:hover{
 }
 
 /* Button */
-#services .btn-primary{
+#donations .btn-success{
     box-shadow: none;
     padding: 8px 25px;
     border: none;
     border-radius: 20px;
-    background-image: linear-gradient(to right, #058316, #27960c);
+    background-image: linear-gradient(to right, #19191a, #25252b);
 }
 
-/* About Us */
-#who-is-this-class-for{
-    padding-bottom: 50px;
-    padding-top: 50px;
+/*Volunteers Button */
+#volunteers .btn-success{
+    box-shadow: none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #19191a, #25252b);
 }
 
 .about-title{
@@ -170,23 +174,21 @@ a:hover{
     margin-left: 20px;
 }
 
-/* Testimonials */
-#testimonials{
-    margin: 100px 0;
+/* Mission vision */
+#vision_mission{
+    padding: 50px;
     background: #f8f9fa;
+    margin-bottom: 30px;
 }
 
-.testimonials{
-    border-left: 2px solid #27960c;
-    margin-top: 50px;
-    margin-bottom: 50px;
+
+/* Donations */
+#donations{
+    padding: 50px;
+    background: #f8f9fa;
+    margin-bottom: 30px;
 }
 
-.testimonials img{
-    height: 60px;
-    width: 60px;
-    border-radius: 50%;
-}
 
 /* Mission & Vision */
 
@@ -223,7 +225,7 @@ a:hover{
 
 /* Footer Section */
 #footer{
-    background-image: linear-gradient(to right, #27960c, #058316);
+    background-image: linear-gradient(to right, #19191a, #25252b);
     color: #fff;
 }
 
@@ -248,7 +250,7 @@ a:hover{
     text-align: center;
     padding-top: 7px;
     border-radius: 2px;
-    background-image: linear-gradient(to right, #27960c, #058316);
+    background-image: linear-gradient(to right, #19191a, #25252b);
 }
 
 .footer-box .form-control{
@@ -263,7 +265,7 @@ a:hover{
     border: none;
     border-radius: 0;
     margin-top: 30px;
-    background-image: linear-gradient(to right, #27960c, #058316);
+    background-image: linear-gradient(to right, #19191a, #19191b);
 }
 
 hr{
@@ -303,5 +305,5 @@ hr{
     padding: 8px 25px;
     border: none;
     border-radius: 20px;
-    background-image: linear-gradient(to right, #058316, #27960c);
+    background-image: linear-gradient(to right, #19191a, #25252b);
 }
