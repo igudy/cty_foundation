@@ -13,7 +13,7 @@
         <div class="row">
           <div class="col-md-12">
             <h1 class="who text-center">BACKGROUND</h1>
-            <p class="text-center">
+            <p class="">
             Several children in Nigeria are subjected to hawking practices.
             This exposes them to the several adverse effects, such as; death,
             criminal activities, prostitution, teenage pregnancy, abortion amongst
@@ -73,41 +73,23 @@
       </div>
     </section>
 
-      <!-- Donations -->
-      <section id="donations">
+      <!-- Join our Volunteers -->
+      <section id="volunteers">
         <div class="container text-center">
-          <h1 class="title">DONATIONS</h1>
-          <div class="row text-center">
-            <!-- First Service -->
-              <div class="col-md-4 col-xs-4 services wow animate__animated animate__zoomIn delay-1.5">
-                <img src="images/p1.jpg" class="service-img">
-                </div>
-                <div class="col-md-4 col-xs-4 services wow animate__animated animate__zoomIn delay-1">
-                <img src="images/p1.jpg" class="service-img">
-                </div>
-                <div class="col-md-4 col-xs-4 services wow animate__animated animate__zoomIn delay-2">
-                <img src="images/p1.jpg" class="service-img">
-              </div>
+          <h1 class="who text-center">JOIN OUR VOLUNTEERS</h1>
+          <div class="row">
             <div class="col-md-12 col-xs-12 services">
-              <h4>
-                <!-- Graphic Design -->
-              </h4>
-
               <p>
-              This movement is also something you can be a part of,
-              you do not need to be physically present to be a part
-              of this as the movement needs to be heavily funded, and
-              that is where you can come in, by giving to this cause and
-              relieving these children of the weights on their heads.
-              </p>
+                You can join our volunteers by clicking the link below</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo-XH9SmfswgzOCfxLUSAzf208ysbkchTlH764NdhevwwEpw/viewform"><button class="btn btn-success">Join Here</button></button></a>
           </div>
           </div>
-          <button type="button" class="btn btn-success text-center">JOIN OUR TEAM</button>
-          <h3 style="text-align: center; margin-top: 10px;">THANKS FOR GIVING</h3>
       </section>
 
+
+
        <!-- About Us -->
-    <section id="">
+    <section id="donations">
       <div class="container"><br><br>
         <h1 class="who text-center">VIDEO AWARENESS</h1>
           <div class="row">
@@ -143,72 +125,50 @@
     </section>
 
 
-      <!-- Volunteers -->
-      <section id="volunteers">
+      <!-- Donations -->
+      <section id="">
         <div class="container text-center">
-          <h1 class="who text-center">JOIN OUR TEAM OF VOLUNTEERS</h1>
-          <div class="row text-center">
-            <!-- First Service -->
-            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
-              <img src="images/user1.jpg" class="service-img">
-              <h4>
-                MARK ANDREW
-              </h4>
-                Graphic design helps create visual concepts,
-                  using computer software or by hand, to communicate
-                  ideas that inspire, inform, and captivate consumers.
-              </p>
-            </div>
-
-            <!-- Second Service -->
-            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-2">
-              <img src="images/user2.jpg" class="service-img">
-              <h4>
-                GRACE WEALTH
-              </h4>
-              <p>Web development is the building and maintenance of websites; it’s the work
-                that happens behind the scenes to make a website look great, work fast and
-                perform well with a seamless user experience.
-            </div>
-
-            <!-- Third Service -->
-            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-3">
-              <img src="images/user1.jpg" class="service-img">
-              <h4>
-                JOHN AHMED
-              </h4>
+          <h1 class="title">DONATIONS</h1>
+          <div class="row">
+            <div class="col-md-12 col-xs-12 services">
               <p>
-                A video intro is the first thing your viewer will see as the video starts.
-                This is often a short title screen or a voiceover with on-screen text or subtitles
-                that explain what the video is about. Your video introduction is your chance to make
-                a great first impression.
+              This movement is also something you can be a part of, you do not
+              need to be physically present to be a part of this as the movement
+              needs to be heavily funded, and that is where you can come in, by
+              giving to this cause and relieving these children of the weights on
+              their heads.
               </p>
-            </div>
+              <h4>
+                Support Us
+              </h4>
+              <p><b>Account Name: Isaiah Samuel</b></p>
+              <p><b>Account Number: 2107056821</b></p>
+              <p><b>Bank Name: UBA</b></p>
           </div>
-          <button type="button" class="btn btn-success">JOIN OUR TEAM</button>
-        </div>
+          </div>
+          <!-- <button type="button" class="btn btn-success text-center">JOIN OUR TEAM</button> -->
+          <h3 style="text-align: center; margin-top: 10px;">THANK YOU FOR GIVING</h3>
       </section>
 
-    <!-- Whatsapp Icon to the right -->
-    <div style="border-color: green; position: fixed;
-    bottom: 100px; right: 1%; bottom: 1%; z-index: 1;">
-        <a href="https://wa.me/2348108251426?text=I'm%20Interested%20in%20the%20Graphic%20Design%20Masterclass%20.%20My%20name%20is%20____">
-            <img  src="images/Whatsapp.png" style="width: 60px; height: 60px;" alt="Whatsapp Image">
-            <!-- <span style="color: green;!important"> -->
-        </a>
-    </div>
 
+
+    <!-- Whatsapp Icon to the right -->
+    <!-- <div style="border-color: green; position: fixed;
+    bottom: 100px; right: 1%; bottom: 1%; z-index: 1;">
+        <a href="">
+            <img  src="images/Whatsapp.png" style="width: 60px; height: 60px;" alt="Whatsapp Image">
+        </a>
+    </div> -->
 
     <!-- Social Media Section -->
     <section id="social-media">
       <div class="container text-center">
-        <p>FIND US ON SOCIAL MEDIA</p>
+        <p>CONTACT US/FIND US ON SOCIAL MEDIA</p>
         <div class="social-icons">
-          <a href="https://web.facebook.com/igunma.goodness?_rdc=1&_rdr"><img src="images/facebook-icon.png"></a>
-          <a href="https://www.instagram.com/iigudy/"><img src="images/instagram-icon.png"></a>
-          <a href="https://twitter.com/iigudy"><img src="images/twitter-icon.png"></a>
-          <a href="https://wa.me/2348108251426"><img src="images/whatsapp-icon.png"></a>
-          <a href="https://www.linkedin.com/in/igunma-goodness-65bb581a7/"><img src="images/linkedin-icon.png"></a>
+          <!-- <a href="https://web.facebook.com/igunma.goodness?_rdc=1&_rdr"><img src="images/facebook-icon.png"></a> -->
+          <a href="https://www.instagram.com/ctyfoundation/"><img src="images/instagram-icon.png"></a>
+          <a href="https://twitter.com/CTY_Foundation"><img src="images/twitter-icon.png"></a>
+          <a href="https://wa.me/2348x097967034"><img src="images/whatsapp-icon.png"></a>
           <!-- <a href="#"><img src="images/snapchat-icon.png"></a> -->
         </div>
       </div>

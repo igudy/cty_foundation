@@ -9,7 +9,7 @@
 
 <section id="">
       <div class="container"><br><br>
-        <h1 class="who text-center">1ST CHILD SPEAKS</h1>
+        <h1 class="who text-center">AWARENESS</h1>
           <div class="row">
             <div class="col-md-6">
             <div class="site-block-half d-lg-flex">
@@ -45,7 +45,7 @@
 
     <section id="">
       <div class="container"><br><br>
-        <h1 class="who text-center">2ND CHILD SPEAKS</h1>
+        <h1 class="who text-center">AWARENESS 2</h1>
           <div class="row">
           <div class="col-md-6">
               <div class="text">
@@ -83,7 +83,7 @@
 
     <section id="">
       <div class="container"><br><br>
-        <h1 class="who text-center">1ST CHILD SPEAKS</h1>
+        <h1 class="who text-center">AWARENESS 3</h1>
           <div class="row">
             <div class="col-md-6">
             <div class="site-block-half d-lg-flex">

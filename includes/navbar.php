@@ -13,24 +13,20 @@
                   <a class="nav-link" href="index.php">HOME</span></a>
                 </li>
 
-                  <li class="nav-item">
-                    <a class="nav-link" href="#vision_mission">VISION/MISSION</span></a>
-                  </li>
-
-                <li class="nav-item">
-                  <a class="nav-link" href="#donations">DONATIONS</a>
-                </li>
-
                 <li class="nav-item">
                   <a class="nav-link" href="events.php">EVENTS</a>
                 </li>
 
                   <li class="nav-item">
-                    <a class="nav-link" href="#volunteers">VOLUNTEERS</span></a>
+                    <a class="nav-link" href="volunteers.php">VOLUNTEERS</span></a>
                   </li>
 
                   <li class="nav-item">
                     <a class="nav-link" href="awareness.php">AWARENESS</span></a>
+                  </li>
+
+                  <li class="nav-item">
+                    <a class="nav-link" href="children_voice.php">CHILDREN VOICE</span></a>
                   </li>
 
                   <li class="nav-item">

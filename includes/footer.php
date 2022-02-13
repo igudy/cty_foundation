@@ -5,30 +5,33 @@
         <div class="row">
           <div class="col-md-4 footer-box">
             <!-- <img src="images/demo-logo.png"> -->
-            <h3>CTY Foundation</h3>
+            <h4>CTY Foundation</h4>
             <p>
-            Several children in Nigeria are subjected to hawking practices.
-            This exposes them to the several adverse effects, such as; death,
-            criminal activities, prostitution, teenage pregnancy, abortion amongst others.
-            Child hawking is a menace to the society, as it does more harm than good to our
-            leaders of tomorrow, these kids carry heavy weights on their heads and it is our
-            vision in Catch Them Young Foundation to relieve them of these weights.
-
+            CATCH THEM YOUNG is a movement to Stop Child Hawking Practises in Nigeria
             </p>
           </div>
 
           <div class="col-md-4 footer-box">
             <p><b>CONTACT US</b></p>
-            <p><i class="fa fa-map-marker"></i>Nigeria, Benin City</p>
-            <p><i class="fa fa-phone"></i>+234 XXX-XXX-XXXX</p>
+            <p><i class="fa fa-map-marker"></i>Nigeria, Ogun & Edo</p>
+            <p><i class="fa fa-phone"></i>+2348097967034</p>
             <p><i class="fa fa-envelope"></i>Cty_foundation@gmail.com</p>
           </div>
 
+          <!-- Add Navbar links here -->
+          <div class="col-md-4 footer-box">
+            <p><b><a href="index.php" style="color: white;">Home</a></b></p>
+            <p><b><a href="volunteers.php" style="color: white;">Volunteers</a></b></p>
+            <p><b><a href="events.php" style="color: white;">Events</a></b></p>
+            <p><b><a href="awareness.php" style="color: white;">Awareness</a></b></p>
+          </div>
+
+          <!--
           <div class="col-md-4 footer-box">
             <p><b>SUBSCRIBE NEWSLETTER</b></p>
             <input type="text" class="form-control" placeholder="Enter Your Email">
             <button type="button" class="btn btn-primary">Subscribe</button>
-          </div>
+          </div> -->
         </div>
         <hr>
 

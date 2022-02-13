@@ -138,6 +138,7 @@ a:hover{
 /* Button */
 #donations .btn-success{
     box-shadow: none;
+    background: #f8f9fa;
     padding: 8px 25px;
     border: none;
     border-radius: 20px;
@@ -148,6 +149,8 @@ a:hover{
 #volunteers .btn-success{
     box-shadow: none;
     padding: 8px 25px;
+    background: #f8f9fa;
+
     border: none;
     border-radius: 20px;
     background-image: linear-gradient(to right, #19191a, #25252b);
