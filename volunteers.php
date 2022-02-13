@@ -5,11 +5,11 @@
 <?php include("includes/navbar2.php"); ?>
 
 <!-- Include Banner -->
-<?php include("includes/banner.php"); ?>
+<?php include("includes/banner2.php"); ?>
 
 <!-- Volunteers Section -->
       <!-- Volunteers -->
-      <section id="volunteers">
+      <section id="vision">
         <div class="container text-center">
           <h1 class="who text-center">OUR VOLUNTEERS</h1>
           <div class="row text-center">
@@ -28,7 +28,7 @@
             </div>
 
             <!-- Second Service -->
-            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-2">
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
               <img src="images/osas.png" class="service-img">
               <h4>
               Edokpolor Josiah Osas.<br>FxTrader & Realtor              </h4>
@@ -41,7 +41,7 @@
             </div>
 
             <!-- Third Service -->
-            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-3">
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
               <img src="images/pic1.png" class="service-img">
               <h4>
               Salaudeen Eniola<br>Content Writing & Freelancer
@@ -90,9 +90,23 @@
               </p>
             </div>
           </div>
-          <button type="button" class="btn btn-success">JOIN OUR TEAM</button>
+
         </div>
       </section>
+
+          <!-- Social Media Section -->
+    <section id="social-media">
+      <div class="container text-center">
+        <p>CONTACT US/FIND US ON SOCIAL MEDIA</p>
+        <div class="social-icons">
+          <!-- <a href="https://web.facebook.com/igunma.goodness?_rdc=1&_rdr"><img src="images/facebook-icon.png"></a> -->
+          <a href="https://www.instagram.com/ctyfoundation/"><img src="images/instagram-icon.png"></a>
+          <a href="https://twitter.com/CTY_Foundation"><img src="images/twitter-icon.png"></a>
+          <a href="https://wa.me/2348x097967034"><img src="images/whatsapp-icon.png"></a>
+          <!-- <a href="#"><img src="images/snapchat-icon.png"></a> -->
+        </div>
+      </div>
+    </section>
 
 
 <!-- Include Footer -->

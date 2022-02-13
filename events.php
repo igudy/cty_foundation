@@ -5,7 +5,7 @@
 <?php include("includes/navbar2.php"); ?>
 
 <!-- Include Banner -->
-<?php include("includes/banner.php"); ?>
+<?php include("includes/banner2.php"); ?>
 
 
 <!-- Events -->
@@ -103,6 +103,19 @@
               <img src="images/p5.jpg" class="feature img-fluid" style="border-radius: 50px;">
             </div>
           </div>
+      </div>
+    </section>
+          <!-- Social Media Section -->
+          <section id="social-media">
+      <div class="container text-center">
+        <p>CONTACT US/FIND US ON SOCIAL MEDIA</p>
+        <div class="social-icons">
+          <!-- <a href="https://web.facebook.com/igunma.goodness?_rdc=1&_rdr"><img src="images/facebook-icon.png"></a> -->
+          <a href="https://www.instagram.com/ctyfoundation/"><img src="images/instagram-icon.png"></a>
+          <a href="https://twitter.com/CTY_Foundation"><img src="images/twitter-icon.png"></a>
+          <a href="https://wa.me/2348x097967034"><img src="images/whatsapp-icon.png"></a>
+          <!-- <a href="#"><img src="images/snapchat-icon.png"></a> -->
+        </div>
       </div>
     </section>
 
