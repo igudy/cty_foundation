@@ -94,6 +94,21 @@
         </div>
       </section>
 
+
+            <!-- Join our Volunteers -->
+            <section id="volunteers">
+        <div class="container text-center">
+          <h1 class="who text-center">JOIN OUR VOLUNTEERS</h1>
+          <div class="row">
+            <div class="col-md-12 col-xs-12 services">
+              <p>
+                You can join our volunteers by clicking the link below</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo-XH9SmfswgzOCfxLUSAzf208ysbkchTlH764NdhevwwEpw/viewform"><button class="btn btn-success">Join Here</button></button></a>
+          </div>
+          </div>
+      </section><br>
+
+
           <!-- Social Media Section -->
     <section id="social-media">
       <div class="container text-center">

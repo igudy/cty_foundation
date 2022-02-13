@@ -56,7 +56,7 @@
         <h1 class="who text-center">OUR MISSION</h1>
           <div class="row">
             <div class="col-md-6 who-is-this-class-for">
-              <ul>
+              <ul style="list-style-type:none;">
                 <li>Educate and sensitize parents and guardians on the adverse effects of child hawking </li>
                 <li>Empower parents and guardians with funds that can enable them be comfortable</li>
                 <li>Equip parents and guardians with necessary skills that can enable them have careers of their own</li>
@@ -74,7 +74,7 @@
     </section>
 
       <!-- Join our Volunteers -->
-      <section id="volunteers">
+      <section id="donations">
         <div class="container text-center">
           <h1 class="who text-center">JOIN OUR VOLUNTEERS</h1>
           <div class="row">
@@ -89,21 +89,19 @@
 
 
        <!-- About Us -->
-    <section id="donations">
+    <!-- <section id="donations">
       <div class="container"><br><br>
         <h1 class="who text-center">VIDEO AWARENESS</h1>
           <div class="row">
-            <div class="col-md-6">
-            <div class="site-block-half d-lg-flex">
+            <div class="col-md-6 col-xs-12">
               <video width='500' height='350' class="img img-thumbnail" src='3.0_How_to_Install_Adobe_Illustrator_2020.mp4' controls='All' loop='false' autostart='0' autostart='false'>
                   <embed width='700' height='500'  class="img img-thumbnail" src='3.0_How_to_Install_Adobe_Illustrator_2020.mp4' autostart='0'></embed>
               </video>
               </div>
-              </div>
 
-              <div class="col-md-6">
+              <div class="col-md-6 col-xs-12">
               <div class="text">
-                <h3>Video that each volunteer makes to create awareness </h3>
+                <h3>Awareness Video 1 </h3>
                 <p>Several children in Nigeria are subjected to hawking practices.
                   This exposes them to the several adverse effects, such as; death,
                   criminal activities, prostitution, teenage pregnancy, abortion amongst others.
@@ -112,20 +110,17 @@
                   Them Young Foundation to relieve them of these weights.
 
                 </p>
-                <a href='3.0_How_to_Install_Adobe_Illustrator_2020.mp4' class='' download='3.0_How_to_Install_Adobe_Illustrator_2020.mp4' alt='How to Install Adobe Illustrator CC 2020' >
-                    <!-- <span class='fa fa-download small'>Download mp4 -->
-                    </a>
-                <!-- </span> -->
               </div>
               </div>
             </div>
-            </div>            </div>
+          </div>
           </div>
       </div><br><br>
-    </section>
+    </section> -->
 
 
       <!-- Donations -->
+      <br>
       <section id="">
         <div class="container text-center">
           <h1 class="title">DONATIONS</h1>
