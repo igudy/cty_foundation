@@ -22,8 +22,8 @@
           <div class="col-md-3 footer-box">
             <p><b><a href="index.php" style="color: white;">Home</a></b></p>
             <p><b><a href="volunteers.php" style="color: white;">Volunteers</a></b></p>
-            <p><b><a href="events.php" style="color: white;">Events</a></b></p>
-            <p><b><a href="awareness.php" style="color: white;">Awareness</a></b></p>
+            <!-- <p><b><a href="events.php" style="color: white;">Events</a></b></p> -->
+            <!-- <p><b><a href="awareness.php" style="color: white;">Awareness</a></b></p> -->
           </div>
 
           <!--
