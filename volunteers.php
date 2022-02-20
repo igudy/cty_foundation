@@ -62,7 +62,7 @@
               <h4>
                Igunma Goodness Igudy<br>Software Engineer & Graphic Designer
               </h4>
-              <p>Helping in the little way I can has alway been one of my life's goal. I feel everyone
+              <p>Helping in the little way I can has always been one of my goal. I feel everyone
                 deserve a chance to be something more, so I saw this movement as an avenue to
                 give back to the society and show love in the little way I can.
               </p>
@@ -73,13 +73,98 @@
               <img src="images/nurse.png" class="service-img">
               <h4>
               Bada Basirat<br>Nurse</h4>
-              <p>I have had three years experience working as a volunteer for JCI.
-                I am a part of this because of the joy I drive from
-                helping and giving my own quota to humanity.
+              <p>
+              I enjoy volunteering and making myself available to contribute my
+              part to causes I'm passionate about, especially when I'm capable
+              of being part of the change. I am a member of The Ganglion Initiative,
+              Junior Chambers International Nigeria, Slum and Rural Health Initiative
+              Network and I really enjoy volunteering.
+              Child Hawking poses as a threat to one of the fundamental human rights.
+              It's not and should not be a means to end. I'm a part of this movement
+              because I seek to be an advocate to parents, guardians, teachers and
+              even young children about the injustice child hawking is. I wish to also
+              educate them and be an eye-opener
             </div>
 
             <!-- Third Service -->
             <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
+              <img src="images/pic2.png" class="service-img">
+              <h4>
+              Titilayo<br>Graphic Designer
+              </h4>
+              <p>
+              I love to cater for people especially young ones,
+              I want to be a part of this because of my love children
+              </p>
+            </div>
+
+
+
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
+              <img src="images/tosin.png" class="service-img">
+              <h4>
+              Popoola Oluwatosin<br>Student
+              </h4>
+              I am actually the leader of an NGO myself and I
+              am a part of this movement because of its target audience which is the children
+              </p>
+            </div>
+
+            <!-- Second Service -->
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
+              <img src="images/titilayo.png" class="service-img">
+              <h4>
+              Favour Abel<br>Customer Representative            </h4>
+              <p>My Name is Favour Abel, I am from Delta State, Nigeria.
+                I am a graduate of the University of Benin where I studied Computer Science.
+                I volunteered for the Google CS First program where we taught kids programming
+                concepts using the Scratch platform.
+                I would love to be part of this movement because I want to give back to the
+                society especially kids and I hope I can help in my own little way.
+
+            </div>
+
+            <!-- Third Service -->
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
+              <img src="images/ayo.png" class="service-img">
+              <h4>
+              Williams Ayodele<br>Graphic Designer
+              </h4>
+              <p>
+              I have experience in Volunteering with Federation of Colleges
+              Ex-Student Christian Association (FECA), Edgy Ideas Africa,
+              The Joseph Idowu Foundation (TJIF).
+              I am a part of this movement because I love to contribute positively
+              to humanity. I believe in equity and a better world.
+              This platform is another avenue to serve humanity.
+
+
+              </p>
+            </div>
+
+            <!-- First Service -->
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
+              <img src="images/moyo.png" class="service-img">
+              <h4>
+              Moyo<br>Student
+              </h4>
+              <p>I have no volunteering experience but I want you be part of this movement because I
+                feel it is not right when children who are supposed to be in school are hawking
+              </p>
+            </div>
+
+            <!-- Second Service -->
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
+              <img src="images/Oluwafifehansimi.png" class="service-img">
+              <h4>
+              Oluwafifehansimi<br>Photographer</h4>
+              <p>We all deserve equal rights and equitable opportunities to fulfill our God given dreams.
+                As a lover of Creativity and Social Justice, I am willing to use this medium
+                give back to my community.
+            </div>
+
+            <!-- Third Service -->
+            <!-- <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
               <img src="images/pic2.png" class="service-img">
               <h4>
               Titilayo<br>Graphic Designer & Secretary at Christ Miracle Church Mission YFC
@@ -88,7 +173,7 @@
               I love to cater for people especially young ones,
               I want to be a part of this because of my love children
               </p>
-            </div>
+            </div> -->
           </div>
 
         </div>

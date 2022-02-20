@@ -15,7 +15,7 @@
             <p><b>CONTACT US</b></p>
             <p><i class="fa fa-map-marker"></i>Nigeria, Ogun & Edo</p>
             <p><i class="fa fa-phone"></i>+2348097967034</p>
-            <p><i class="fa fa-envelope"></i>Cty_foundation@gmail.com</p>
+            <p><i class="fa fa-envelope"></i>Catchthemyoungcty@gmail.com</p>
           </div>
 
           <!-- Add Navbar links here -->

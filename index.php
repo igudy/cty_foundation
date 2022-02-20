@@ -57,13 +57,13 @@
           <div class="row">
             <div class="col-md-6 who-is-this-class-for">
               <ul style="list-style-type:none;">
-                <li>Educate and sensitize parents and guardians on the adverse effects of child hawking </li>
-                <li>Empower parents and guardians with funds that can enable them be comfortable</li>
-                <li>Equip parents and guardians with necessary skills that can enable them have careers of their own</li>
-                <li>Empower children with skills that can make them relevant to the world</li>
-                <li>Give appropriate help to kids that have been emotionally abused while hawking</li>
-                <li>Employing the help of security agents to reprimand parents and guardians who are found to be maltreating their wardens and children </li>
-                <li>Get the government to enact laws against child hawking and to maintain these laws</li>
+                <li>1. Educate and sensitize parents and guardians on the adverse effects of child hawking </li>
+                <li>2. Empower parents and guardians with funds that can enable them be comfortable</li>
+                <li>3. Equip parents and guardians with necessary skills that can enable them have careers of their own</li>
+                <li>4. Empower children with skills that can make them relevant to the world</li>
+                <li>5. Give appropriate help to kids that have been emotionally abused while hawking</li>
+                <li>6. Employing the help of security agents to reprimand parents and guardians who are found to be maltreating their wardens and children </li>
+                <li>7. Get the government to enact laws against child hawking and to maintain these laws</li>
               </ul>
             </div>
             <div class="col-md-6 wow animate__animated animate__zoomIn delay-1">
@@ -136,9 +136,9 @@
               <h4>
                 Support Us
               </h4>
-              <p><b>Account Name: Isaiah Samuel</b></p>
+              <p><b>Account Name: Feyikemi Olajide</b></p>
               <p><b>Account Number: 2107056821</b></p>
-              <p><b>Bank Name: UBA</b></p>
+              <p><b>Bank Name: GTB</b></p>
           </div>
           </div>
           <!-- <button type="button" class="btn btn-success text-center">JOIN OUR TEAM</button> -->
@@ -160,10 +160,10 @@
       <div class="container text-center">
         <p>CONTACT US/FIND US ON SOCIAL MEDIA</p>
         <div class="social-icons">
-          <!-- <a href="https://web.facebook.com/igunma.goodness?_rdc=1&_rdr"><img src="images/facebook-icon.png"></a> -->
+          <a href="https://www.facebook.com/profile.php?id=100077429905601"><img src="images/facebook-icon.png"></a>
           <a href="https://www.instagram.com/ctyfoundation/"><img src="images/instagram-icon.png"></a>
           <a href="https://twitter.com/CTY_Foundation"><img src="images/twitter-icon.png"></a>
-          <a href="https://wa.me/2348097967034"><img src="images/whatsapp-icon.png"></a>
+          <!-- <a href="https://wa.me/2348097967034"><img src="images/whatsapp-icon.png"></a> -->
           <!-- <a href="#"><img src="images/snapchat-icon.png"></a> -->
         </div>
       </div>
