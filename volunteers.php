@@ -62,7 +62,7 @@
               <h4>
                Igunma Goodness Igudy<br>Software Engineer & Graphic Designer
               </h4>
-              <p>Helping in the little way I can has always been one of my goal. I feel everyone
+              <p>Helping in the little way I can has always been one of my goals. I feel everyone
                 deserve a chance to be something more, so I saw this movement as an avenue to
                 give back to the society and show love in the little way I can.
               </p>
