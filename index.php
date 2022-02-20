@@ -63,7 +63,7 @@
                 <li>4. Empower children with skills that can make them relevant to the world</li>
                 <li>5. Give appropriate help to kids that have been emotionally abused while hawking</li>
                 <li>6. Employing the help of security agents to reprimand parents and guardians who are found to be maltreating their wardens and children </li>
-                <li>7. Get the government to enact laws against child hawking and to maintain these laws</li>
+                <li>7. xGet the government to enact laws against child hawking and to maintain these laws</li>
               </ul>
             </div>
             <div class="col-md-6 wow animate__animated animate__zoomIn delay-1">

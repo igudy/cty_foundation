@@ -128,7 +128,7 @@
             <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
               <img src="images/ayo.png" class="service-img">
               <h4>
-              Williams Ayodele<br>Graphic Designer
+              Williams Ayodele<br>Graphic Designer & Secretary at Christ Miracle Church Mission YFC
               </h4>
               <p>
               I have experience in Volunteering with Federation of Colleges
