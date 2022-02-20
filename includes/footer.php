@@ -27,7 +27,7 @@
           </div>
 
           <!--
-          <div class="col-md-4 footer-box">
+          <div class="col-md-4 footer-box ">
             <p><b>SUBSCRIBE NEWSLETTER</b></p>
             <input type="text" class="form-control" placeholder="Enter Your Email">
             <button type="button" class="btn btn-primary">Subscribe</button>
