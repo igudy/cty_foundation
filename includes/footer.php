@@ -11,7 +11,7 @@
             </p>
           </div>
 
-          <div class="col-md-4 footer-box">
+          <div class="col-md-5 footer-box">
             <p><b>CONTACT US</b></p>
             <p><i class="fa fa-map-marker"></i>Nigeria, Ogun & Edo</p>
             <p><i class="fa fa-phone"></i>+2348097967034</p>
@@ -19,7 +19,7 @@
           </div>
 
           <!-- Add Navbar links here -->
-          <div class="col-md-4 footer-box">
+          <div class="col-md-3 footer-box">
             <p><b><a href="index.php" style="color: white;">Home</a></b></p>
             <p><b><a href="volunteers.php" style="color: white;">Volunteers</a></b></p>
             <p><b><a href="events.php" style="color: white;">Events</a></b></p>
