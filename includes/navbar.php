@@ -13,21 +13,21 @@
                   <a class="nav-link" href="index.php">HOME</span></a>
                 </li>
 
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                   <a class="nav-link" href="events.php">EVENTS</a>
-                </li>
+                </li> -->
 
                   <li class="nav-item">
                     <a class="nav-link" href="volunteers.php">VOLUNTEERS</span></a>
                   </li>
 
-                  <li class="nav-item">
+                  <!-- <li class="nav-item">
                     <a class="nav-link" href="awareness.php">AWARENESS</span></a>
-                  </li>
+                  </li> -->
 
-                  <li class="nav-item">
+                  <!-- <li class="nav-item">
                     <a class="nav-link" href="children_voice.php">CHILDREN VOICE</span></a>
-                  </li>
+                  </li> -->
 
                   <li class="nav-item">
                     <a class="nav-link" href="#social-media">CONTACT US</a>
