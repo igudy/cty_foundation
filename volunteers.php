@@ -88,7 +88,7 @@
 
             <!-- Third Service -->
             <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
-              <img src="images/pic2.png" class="service-img">
+              <img src="images/titilayo.png" class="service-img">
               <h4>
               Titilayo<br>Secretary at Christ Miracle Church Mission YFC
               </h4>
@@ -112,7 +112,7 @@
 
             <!-- Second Service -->
             <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
-              <img src="images/titilayo.png" class="service-img">
+              <img src="images/abell.png" class="service-img">
               <h4>
               Favour Abel<br>Customer Representative            </h4>
               <p>My Name is Favour Abel, I am from Delta State, Nigeria.
@@ -197,7 +197,7 @@
           <!-- Social Media Section -->
     <section id="social-media">
       <div class="container text-center">
-        <p>CONTACT US/FIND US ON SOCIAL MEDIA</p>
+        <p>CONTACT US</p>
         <div class="social-icons">
           <!-- <a href="https://web.facebook.com/igunma.goodness?_rdc=1&_rdr"><img src="images/facebook-icon.png"></a> -->
           <a href="https://www.instagram.com/ctyfoundation/"><img src="images/instagram-icon.png"></a>

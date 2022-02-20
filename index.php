@@ -47,7 +47,6 @@
         </div>
       </div>
       </div>
-
     </section>
 
     <!-- About Us -->
@@ -63,7 +62,7 @@
                 <li>4. Empower children with skills that can make them relevant to the world</li>
                 <li>5. Give appropriate help to kids that have been emotionally abused while hawking</li>
                 <li>6. Employing the help of security agents to reprimand parents and guardians who are found to be maltreating their wardens and children </li>
-                <li>7. xGet the government to enact laws against child hawking and to maintain these laws</li>
+                <li>7. Get the government to enact laws against child hawking and to maintain these laws</li>
               </ul>
             </div>
             <div class="col-md-6 wow animate__animated animate__zoomIn delay-1">
@@ -87,8 +86,7 @@
       </section>
 
 
-
-       <!-- About Us -->
+    <!-- About Us -->
     <!-- <section id="donations">
       <div class="container"><br><br>
         <h1 class="who text-center">VIDEO AWARENESS</h1>
@@ -117,7 +115,6 @@
           </div>
       </div><br><br>
     </section> -->
-
 
       <!-- Donations -->
       <br>
@@ -158,7 +155,7 @@
     <!-- Social Media Section -->
     <section id="social-media">
       <div class="container text-center">
-        <p>CONTACT US/FIND US ON SOCIAL MEDIA</p>
+        <p>CONTACT US</p>
         <div class="social-icons">
           <a href="https://www.facebook.com/profile.php?id=100077429905601"><img src="images/facebook-icon.png"></a>
           <a href="https://www.instagram.com/ctyfoundation/"><img src="images/instagram-icon.png"></a>

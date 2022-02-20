@@ -120,7 +120,7 @@
               <!-- Social Media Section -->
               <section id="social-media">
       <div class="container text-center">
-        <p>CONTACT US/FIND US ON SOCIAL MEDIA</p>
+        <p>CONTACT US</p>
         <div class="social-icons">
           <!-- <a href="https://web.facebook.com/igunma.goodness?_rdc=1&_rdr"><img src="images/facebook-icon.png"></a> -->
           <a href="https://www.instagram.com/ctyfoundation/"><img src="images/instagram-icon.png"></a>
