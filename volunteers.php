@@ -90,7 +90,7 @@
             <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
               <img src="images/pic2.png" class="service-img">
               <h4>
-              Titilayo<br>Graphic Designer & Secretary at Christ Miracle Church Mission YFC
+              Titilayo<br>Secretary at Christ Miracle Church Mission YFC
               </h4>
               <p>
               I love to cater for people especially young ones,
