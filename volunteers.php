@@ -44,15 +44,14 @@
             <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
               <img src="images/pic1.png" class="service-img">
               <h4>
-              Salaudeen Eniola<br>Content Writing & Freelancer
+              Salaudeen Eniola<br>Content Writer & Freelancer
               </h4>
               <p>
-              I have had experience in vounteering with UNICEF and I currently volunteer with
-              Royal Mifadelo I love charity and humanity work. I love to help people who
-              I'm in a position to, and sometimes, go out of my way too. It gives me joy
-              seeing I'm able to put a smile on people's face. Above all, it pleases God
-              when we show love to others through our actions.
-
+                I have had experience in vounteering with UNICEF and I currently volunteer with Royal Mifadelo.
+                I love charity and humanity work. I love to help people who I'm in a position
+                to, and sometimes, go out of my way too. It gives me joy seeing I'm
+                able to put a smile on people's face. Above all, it pleases God when we
+                show love to others through our actions.
               </p>
             </div>
 
@@ -164,16 +163,18 @@
             </div>
 
             <!-- Third Service -->
-            <!-- <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
-              <img src="images/pic2.png" class="service-img">
+            <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
+              <img src="images/pic5.png" class="service-img">
               <h4>
-              Titilayo<br>Graphic Designer & Secretary at Christ Miracle Church Mission YFC
+              Isaiah Samuel<br>Data Scientist & Back End Developer
               </h4>
               <p>
-              I love to cater for people especially young ones,
-              I want to be a part of this because of my love children
+              I have no experience as a volunteer but I see this as a means of helping out,
+              not just in the foundation but helping child hawkers. Living in Lagos, I see these children go through
+              so many things and I felt disgusted at their plight. I also want to
+              be able to help these kids acquire skills.
               </p>
-            </div> -->
+            </div>
           </div>
 
         </div>

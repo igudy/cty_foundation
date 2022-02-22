@@ -134,8 +134,8 @@
                 Support Us
               </h4>
               <p><b>Account Name: Feyikemi Olajide</b></p>
-              <p><b>Account Number: 2107056821</b></p>
-              <p><b>Bank Name: GTB</b></p>
+              <p><b>Account Number: 0262205413</b></p>
+              <p><b>Bank Name: Guaranty Trust Bank(GTB) </b></p>
           </div>
           </div>
           <!-- <button type="button" class="btn btn-success text-center">JOIN OUR TEAM</button> -->

@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <h4 class="promo-title">
-                      CTY FOUNDATION
+                    CATCH THEM YOUNG (CTY) FOUNDATION
                     </h4>
                     <h5 style="font-size: 16px;">
                     Child hawking is a menace to the society, as it does
@@ -16,7 +16,7 @@
 
                     </p>
                     <div class="">
-                        <a href="awareness.php"><img src="./images/play.png" class="play-btn">Watch Introduction</a>
+                        <!-- <a href="awareness.php"><img src="./images/play.png" class="play-btn">Watch Introduction</a> -->
                     </div>
                 </div>
 
