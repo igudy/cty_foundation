@@ -164,7 +164,7 @@
 
             <!-- Third Service -->
             <div class="col-md-4 services wow animate__animated animate__zoomIn delay-1">
-              <img src="images/pic5.png" class="service-img">
+              <img src="images/pics5.png" class="service-img">
               <h4>
               Isaiah Samuel<br>Data Scientist & Back End Developer
               </h4>
