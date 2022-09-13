@@ -36,7 +36,7 @@
         <hr>
 
         <footer class="copyright"> <small>&copy; Copyright
-          <script>document.write(new Date().getFullYear())</script> Catch Them Young (CTY) Foundation</small></footer>
+          <script>document.write(new Date().getFullYear())</script> Catch Them Young (CTY) Foundation by Igudy</small></footer>
 
           <!-- WEBSITE MADE BY IGUNMA GOODNESS O. IGUDY -->
       </div>
