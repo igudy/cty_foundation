@@ -12,7 +12,6 @@ a:hover{
     text-decoration: none !important;
 }
 
-
 #nav-bar{
     position: sticky;
     top: 0;
@@ -21,7 +20,7 @@ a:hover{
 }
 
 .navbar{
-    background-image: linear-gradient(to right, #19191a, #25252b)!important;
+    background-image: linear-gradient(to right, #F87D1C, #fd7915)!important;
     padding: 0!important;
 }
 
@@ -53,7 +52,7 @@ a:hover{
 /* Banner Section */
 #banner{
     /* background-image: url("./images/p2.jpg"); */
-    background-image: linear-gradient(to right, #19191a, #25252b);
+    background-image: linear-gradient(to right, #F87D1C, #fd7915);
     color: #fff;
     /* background-repeat: no-repeat; */
 }
@@ -81,7 +80,7 @@ a:hover{
 /* Services */
 #services{
     padding: 80px 0;
-    background: #f8f9fa;
+    background: #F87D1C;
 }
 
 .service-img{
@@ -102,7 +101,7 @@ a:hover{
 
 .title::before{
     content: '';
-    background: #25252b;
+    background: #F87D1C;
     height: 5px;
     width: 120px;
     margin-left: auto;
@@ -113,7 +112,7 @@ a:hover{
 
 .title::after{
     content: '';
-    background: #3c3c49;
+    background: #F87D1C;
     height: 10px;
     width: 60px;
     margin-left: auto;
@@ -125,7 +124,7 @@ a:hover{
 
 .who::after{
     content: '';
-    background: #25252b;
+    background: #F87D1C;
     height: 3px;
     width: 200px;
     margin-left: auto;
@@ -142,7 +141,7 @@ a:hover{
     padding: 8px 25px;
     border: none;
     border-radius: 20px;
-    background-image: linear-gradient(to right, #19191a, #25252b);
+    background-image: linear-gradient(to right, #F87D1C, #fd7915);
 }
 
 /*Volunteers Button */
@@ -153,7 +152,7 @@ a:hover{
 
     border: none;
     border-radius: 20px;
-    background-image: linear-gradient(to right, #19191a, #25252b);
+    background-image: linear-gradient(to right, #F87D1C, #fd7915);
 }
 
 .about-title{
@@ -224,7 +223,7 @@ a:hover{
 
 /* Footer Section */
 #footer{
-    background-image: linear-gradient(to right, #19191a, #25252b);
+    background-image: linear-gradient(to right, #F87D1C, #fd7915);
     color: #fff;
 }
 
@@ -249,7 +248,7 @@ a:hover{
     text-align: center;
     padding-top: 7px;
     border-radius: 2px;
-    background-image: linear-gradient(to right, #19191a, #25252b);
+    background-image: linear-gradient(to right, #F87D1C, #fd7915);
 }
 
 .footer-box .form-control{
@@ -264,7 +263,7 @@ a:hover{
     border: none;
     border-radius: 0;
     margin-top: 30px;
-    background-image: linear-gradient(to right, #19191a, #19191b);
+    background-image: linear-gradient(to right, #F87D1C, #fd7915);
 }
 
 hr{
@@ -304,5 +303,5 @@ hr{
     padding: 8px 25px;
     border: none;
     border-radius: 20px;
-    background-image: linear-gradient(to right, #19191a, #25252b);
+    background-image: linear-gradient(to right, #F87D1C, #fd7915);
 }
